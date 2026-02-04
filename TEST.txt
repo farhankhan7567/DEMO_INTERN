@@ -1,1 +1,10 @@
 TESTING COMMANDS
+
+git --version
+cd d:(drive)
+git pull origin main(To pull the updates made on GitHub)
+git status
+ls
+git add <file_name_with_extension>
+git commit -m <file_name_with_extension>
+git push origin main(To push the updates made on Windows to GitHub)
